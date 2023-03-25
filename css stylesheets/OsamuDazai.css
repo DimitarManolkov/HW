@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: gray;
+}
+.head{
+    border: solid 5px  #2C0F3D;
+    text-align: center;
+    width: 800px;
+    padding-bottom: 10px;
+}
+.Dblue{
+    background-color:  #4A1964;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+}
+.Lblue{
+    background-color: 	#8B51A8;
+    color: white;
+    padding: 20px 20px;
+    text-align: center;
+}
